@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! Built entirely with **pure HTML and CSS**, this site is a reflection of my frontend skills, visual design sense, and attention to responsive detail. No frameworks. No shortcuts. Just handcrafted code and passion.
 
 🌐 **Live Website**: [Click here to visit](https://mithlesh-fd.github.io/Portfolio)  
-🧠 **Built With**: HTML5, CSS3, Basic JavaScript, Cursor AI  
+🧠 **Built With**: HTML5, CSS3, Cursor AI  
 📄 **Resume**: [Download Resume](./resume.pdf)
 
 ---
